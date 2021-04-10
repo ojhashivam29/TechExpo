@@ -18,4 +18,4 @@ Keeping in mind the safety and security of women(or anyone in need).
 3.RAKSHAKS community can also be joined by police stations hospitals etc.
 
 ## Limitations
-Due to a lot of challenges ( being the first years having less knowledge of backhend and apis)  and time limitations we were not able to make working web sites.
+Due to a lot of challenges ( being the first years having less knowledge of backend and apis)  and time limitations we were not able to make working web sites.
